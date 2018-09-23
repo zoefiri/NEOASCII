@@ -1,4 +1,4 @@
-#Neofetch ASCII!
+# Neofetch ASCII!
 
 This is a collection of ASCII art meant to be used in Neofetch, for those that don't wish to participate in distro patriotism.
 
